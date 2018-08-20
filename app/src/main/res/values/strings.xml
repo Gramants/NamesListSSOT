@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">List of Users SSOT</string>
+    <string name="online">You are on line!</string>
+    <string name="no_connection">Showing local results</string>
+    <string name="noreposfound">No data to show</string>
+    <string name="reposfound">Showing %1$s results</string>
+    <string name="toastmsg">You clicked %1$s</string>
+</resources>
